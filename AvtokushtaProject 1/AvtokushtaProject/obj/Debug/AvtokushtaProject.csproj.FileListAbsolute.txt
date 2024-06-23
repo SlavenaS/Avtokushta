@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\bin\Debug\AvtokushtaProject.exe.config
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\bin\Debug\AvtokushtaProject.exe
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\bin\Debug\AvtokushtaProject.pdb
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\obj\Debug\AvtokushtaProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\obj\Debug\AvtokushtaProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\obj\Debug\AvtokushtaProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\obj\Debug\AvtokushtaProject.exe
+C:\Users\Admin\Desktop\AvtokushtaProject – Копие\AvtokushtaProject\obj\Debug\AvtokushtaProject.pdb
